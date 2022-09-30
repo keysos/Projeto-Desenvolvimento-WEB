@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <style>
+    table, th, td {
+      border:1px solid black;
+    }
+    </style>
+<head>
+    <title>Suplemax</title>
+    <link rel = "icon" type="image/x-icon" href="dumbbell.png">
+</head>
+
+<body style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0)">
+  <hr>
+  <br>
+  <Center><h1>Suplemax</h1></Center>  
+  <br>
+  <hr>
+  <table style = "width:100%">
+  <tr>
+    <th>Preços</th>
+    <th>Contato</th>
+    <th>Country</th>
+  </tr>
+    <td>Preços</td>
+    <td>Contato</td>
+    <td>Country</td>
+  </table>
+</body>
