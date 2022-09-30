@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Suplemax</title>
+    <link rel = "icon" type="image/x-icon" href="dumbbell.png">
+</head>
+
+<body style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0)">
+  <hr>
+  <br>
+  <Center><h1>Suplemax</h1></Center>  
+  <br>
+  <hr>
+  <h3>Indice</h3>
+    <a href="#produtos">Produtos Bookmarks</a>
+  <hr>
+  <h3 id="produtos">Produtos</h3>
+  <ul>
+    <li>Trembolona</li>
+    <li>Whey Morango</li>
+    <li>Whey Terra</li>
+    <li>Whey Ervilha</li>
+  </ul>
+  <h1>Portfólio</h1>
+  <a href="treinos.html">Veja dicas de treinos aqui</a>
+</body>
+</html>
