@@ -16,12 +16,24 @@
   <hr>
   <h3 id="produtos">Produtos</h3>
   <ul>
-    <li>Trembolona</li>
-    <li>Whey Morango</li>
-    <li>Whey Terra</li>
-    <li>Whey Ervilha</li>
+    <li><a href="pag_produto1.html">Trembolona</a></li>
+    <img src="https://www.centraldosuplemento.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/t/r/trembolona-510x572.png" height="240" width="300" style="border: 1px solid">
+    <br>
+    <br>
+    <li><a href="pag_produto0.html">Whey Morango</a></li>
+    <img src="https://decathlonpro.vteximg.com.br/arquivos/ids/2586107-500-500/-nutriwhey-morango-pouch-907-strawberry1.jpg?v=637363827206630000" height="240" width="300" style="border: 1px solid">
+    <br>
+    <br>
+    <li><a href = "pag_produto2.html">Whey Ervilha</a></li>
+    <img src="https://www.gsuplementos.com.br/upload/produto/imagem/prote-na-da-ervilha-pea-protein-1kg-growth-supplements.png" height="240" width="260" style="border: 1px solid">
+    <br>
+    <br>
   </ul>
   <h1>Portfólio</h1>
   <a href="treinos.html">Veja dicas de treinos aqui</a>
+
+
+  <hr>
+  <h5>Creditos empresariais: Carlos André, José Gustavo, João Pedro. Suplemax.2022Ⓡ</h5>
 </body>
 </html>
