@@ -3,9 +3,67 @@
 <head>
     <title>Suplemax</title>
     <link rel = "icon" type="image/x-icon" href="dumbbell.png">
+
+
+        <style>
+          * {
+  
+    margin: 0; 
+    
+      padding: 5;
+  }
+    
+  .navbar {
+      display: flex;
+    
+
+      position: static; 
+      align-items: center;
+      justify-content: center;
+      top: 0px;
+    
+
+      cursor: pointer;
+  }
+    
+  .nav-list {
+      width: 50%;
+      display: flex;
+  }
+    
+  .nav-list li {
+      list-style: none;
+      padding: 26px 30px;
+  }
+    
+  .nav-list li a {
+      text-decoration: none;
+      color: rgb(0, 0, 0);
+  }
+    
+  .nav-list li a:hover {
+      color: rgb(4, 0, 0);
+  }
+    
+  .rightNav {
+      width: 50%;
+      text-align: right;
+  }
+    
+  
+    
+  .background {
+      background: rgb(131, 10, 5) url(
+  "https://media.geeksforgeeks.org/wp-content/uploads/20201215124609/Capture-300x14.PNG");
+      background-blend-mode:soft-light;
+      background-size: cover;
+  }
+    
+      </style>
 </head>
 
-<body style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0)">
+<body background="https://wallpaperaccess.com/full/3520251.jpg">
+    
   <hr>
   <br>
   <Center><h1>Suplemax</h1></Center>  
