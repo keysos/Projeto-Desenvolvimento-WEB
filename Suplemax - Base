@@ -1,7 +1,20 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
+
+
+<head>  
+
+    <link rel="stylesheet" href="css. css" />
     <title>Suplemax</title>
+    <nav class="navbar background">
+                
+        <ul class="nav-list">
+            <li><h2><a href="#Bombas" target="_blank">Bombas</a></h2></li>
+            <li><h2><a href="#Treinos" target="_blank">Treinos</a></h2></li>
+            <LI><H2><A href="#Formado" target="_blank">Perícias</A></H2></LI>
+            <li><h2><a href="inferiores.html" target="_blank">Legs</a> </h2></li>
+        </ul> 
+    </nav>
     <link rel = "icon" type="image/x-icon" href="dumbbell.png">
 
 
@@ -53,17 +66,17 @@
   
     
   .background {
-      background: rgb(131, 10, 5) url(
-  "https://media.geeksforgeeks.org/wp-content/uploads/20201215124609/Capture-300x14.PNG");
+      background: <--escoleher uma cor nessa bosta-->
+  "https://media.geeksforgeeks.org/wp-content/uploads/20201215124609/Capture-300x14.PNG";
       background-blend-mode:soft-light;
       background-size: cover;
   }
-    
+  
       </style>
+
 </head>
 
 <body background="https://wallpaperaccess.com/full/3520251.jpg">
-    
   <hr>
   <br>
   <Center><h1>Suplemax</h1></Center>  
