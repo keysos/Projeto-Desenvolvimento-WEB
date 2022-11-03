@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>Costas</title>
+
+     <style>
+        * {
+
+    margin: 0; 
+  
+    padding: 5;
+}
+  
+.navbar {
+    display: flex;
+  
+
+    position: static; 
+    align-items: right;
+    justify-content: center;
+    top: 0px;
+  
+
+    cursor: pointer;
+}
+  
+.nav-list {
+    width: 50%;
+    display: flex;
+}
+  
+.nav-list li {
+    list-style: none;
+    padding: 26px 30px;
+}
+  
+.nav-list li a {
+    text-decoration: none;
+    color: rgb(255, 253, 253);
+}
+  
+.nav-list li a:hover {
+    color: rgb(4, 0, 0);
+}
+  
+.rightNav {
+    width: 50%;
+    text-align: cen;
+}
+  
+
+  
+.background {
+    background: rgb(8, 161, 3) url(
+"https://media.geeksforgeeks.org/wp-content/uploads/20201215124609/Capture-300x14.PNG");
+    background-blend-mode:soft-light;
+    background-size: cover;
+}
+  
+    </style>
+    </head>
+
+<body style = "background-color:white; color:white">
+        
+        <nav class="navbar background">
+            
+            <ul class="nav-list">
+                <LI><H1>Treino eficiente para obter costas do CHAD</H1></LI>
+            </ul>
+
+        </nav>
+    </head>
+
+<body>
+    <body style="background-color:white ; color:black">
+
+<hr>
+
+    <img src="https://treinomestre.com.br/wp-content/uploads/2015/03/remada-curvada-capa.jpg" width="1000px" height="500px" >
+    
+        
+       <br> 
+
+        <table style="background-color:green;  color: white ;" border="1"; align="right">
+            <tr>
+                <th><pre><h2>Remada curvada pegada pronada</h2></pre></th>
+            </tr>
+        </table>
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <hr>
+        <img src="https://grandeatleta.com.br/wp-content/uploads/2021/06/remada-baixa-supinada-pronada-neutra.jpg" width="1000px" height="600px">
+        <br>
+        <table style="background-color:green ;color:white;" border="1"; align="right">
+            <tr>
+                <th><pre><h2>Remada baixa</h2></pre></th>
+            </tr>
+        
+        
+        </table>
+        <br>
+        <br>   
+    
+        <br>
+        <hr>
+        <br>
+        <img src="https://i.pinimg.com/736x/55/84/67/5584675e16dbb41e0e07d4868b9fd245.jpg" width="900px" height="600px">
+
+        <br>
+        <table style="background-color:green ;color: white;" border="1"; align="right">
+            <tr>
+                <th><pre><h2>Puxada frontal pegada aberta</h2></pre></th>       
+            </tr>
+            
+        
+        </table>
+        <br>
+        <br>
+        <br>
+        <br>
+        <hr>
+        <br>
+        <br>
+        <img src="https://treinomestre.com.br/wp-content/uploads/2022/06/puxada-fechada-pegada-supinada.png" width="1000px" height="600px">
+        <br>
+        
+        <table style="background-color:green ;color: white;" border="1"; align="right">
+            <tr>
+                <th><pre><h2>Puxada fechada</h2></pre></th>
+            </tr>
+            
+        </table> 
+        
+        <br>
+        <br>
+        <br>
+        
+        </body>
+        
+  
+</body>
+</html>
