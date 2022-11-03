@@ -2,7 +2,6 @@
 <html>
     <head>
      <title>Peitoral</title>
-     <!-- Criar subclasses separando em: Quadriceps, Posterior, Panturrilha -->
      <style>
         * {
 
@@ -76,12 +75,12 @@
 
 <hr>
 
-    <img src="https://grandeatleta.com.br/wp-content/uploads/2018/09/supino.jpg" >
+    <img src="https://grandeatleta.com.br/wp-content/uploads/2018/09/supino.jpg"width="1000px" height="500px">
     
         
        <br> 
 
-        <table style="background-color:green;  color: white ;" border="0"; align="right">
+        <table style="background-color:green;  color: white ;" border="1"; align="right">
             <tr>
                 <th><pre><h2>Supino reto com barra</h2></pre></th>
             </tr>
@@ -92,40 +91,48 @@
             <br>
             <br>
             <hr>
-        <img src="https://treinomestre.com.br/wp-content/uploads/2016/10/supino-inclinado-com-halteres.jpg">
+        <img src="https://treinomestre.com.br/wp-content/uploads/2016/10/supino-inclinado-com-halteres.jpg"width="900px" height="500px">
         <br>
-        <table style="background-color:green ;color:white;" border="0"; align="right">
+        <table style="background-color:green ;color:white;" border="1"; align="right">
             <tr>
                 <th><pre><h2>Supino inclinado com halteres</h2></pre></th>
             </tr>
         
         
         </table>
+
         <br>
         <br>   
-    
         <br>
         <hr>
         <br>
         <br>
-        <img src="http://1.bp.blogspot.com/-NgeA9EALP0M/V1Ix_Wsb9PI/AAAAAAAAAk0/Pgpncio5xtQMSXxoFXaQJ3tlCUMeIhmEwCK4B/s1600/Crucifixo-com-cabos-em-polia-baixa.jpg">
+        <br>   
+    
+        
+        <img src="http://1.bp.blogspot.com/-NgeA9EALP0M/V1Ix_Wsb9PI/AAAAAAAAAk0/Pgpncio5xtQMSXxoFXaQJ3tlCUMeIhmEwCK4B/s1600/Crucifixo-com-cabos-em-polia-baixa.jpg" width="800px" height="500px">
+        
         <br>
-        <table style="background-color:green ;color: white;" border="0"; align="right">
+
+        <table style="background-color:green ;color: white;" border="1"; align="right">
             <tr>
                 <th><pre><h2>Crossover pegada baixa</h2></pre></th>       
             </tr>
             
         
         </table>
+
         <br>
         <br>
         <hr>
-        <table style="background-color:green ;color: white;" border="0"; align="right">
+
+        <table style="background-color:green ;color: white;" border="1"; align="right">
             <tr>
                 <th><pre><h2>Supino crucifixo com halteres</h2></pre></th>
             </tr>
         <img src="https://i.pinimg.com/originals/1c/46/60/1c4660a5b6f97423b3471b9355bbb16c.jpg">    
         </table> 
+        
         <br>
         <br>
         <br>
