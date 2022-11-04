@@ -1,0 +1,173 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+:root{
+    ---color-white: #fff;
+    ---color-dark1: #272727;
+    ---color-dark2: #2d2d2d;
+    ---color-dark3: #414141;
+    ---color-dark4: #1c1c1c;
+    ---color-dark5: #343434;
+    ---color-green: #04AA6D;
+    ---color-green1: #0cc983;
+    ---color-green2: #03613f;
+    
+}
+.center, .menu{
+   display: flex; 
+   flex-wrap: wrap;
+   max-width: 1800px;
+   margin: 0 auto;
+   padding: 0 2%;
+   align-items: center;
+}
+
+.menu{
+    gap: 3em;
+    z-index: 2px;
+}
+
+
+.center{
+    background-color: var(---color-green1);
+    box-shadow: 1px 1px 4px var(---color-dark4);
+    
+}
+
+html,body{
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+header{
+    height: 200px;
+    padding: 20px 0;
+    
+
+}
+
+.btn_icon_header{
+    background-color: transparent;
+    border: none;
+    color:var(---color-white);
+    display: none;
+}
+@media screen and (max-width:1800px){
+    .btn_icon_header{
+        display: block;
+    }
+    .menu{
+        position: absolute;
+        flex-direction: column;
+        top: 0;
+        background-color: var(---color-dark5);
+        height: 100%;
+        width: 35vw;
+        padding: 1em;
+        animation-duration: 1s;
+        margin-left: -100vw;
+        z-index: 1;
+    }
+    @keyframes showsidebar {
+        from {margin-left: -100vw;}
+        top{margin-left: -10vw;}
+    }
+}
+
+.logo{
+    width: 50%;
+}
+
+.menu{
+    width: 50%;
+    text-align: right;
+}
+
+.active{
+    background-color: var(---color-green2);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.menu a{
+    color: var(---color-dark4);
+    transition: 1s;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-top: 15px;
+    
+    
+}
+
+section.sobre{
+    height: calc(100% - 200%);
+    position:relative;
+    z-index: -2;
+}
+
+.extras{
+    position: absolute;
+    bottom: -1200;
+    right: -500;
+    width: 1200px;
+    height: 1200px;
+    border-radius: 50%;
+    background-color: var(---color-green);
+    
+}
+
+.extras img{
+    position: absolute;
+    bottom: 450;
+    right: 700;
+    
+}
+
+.social-media{
+    position: absolute;
+    right:50px;
+    top: 100px;
+    
+}
+
+.social-media img{
+    display: block;
+    margin: 10px 0;
+    width: 50px;
+    height: 50px;
+}
+
+.texto-sobre{
+    margin-top: 100px;
+    margin-left: 400px;
+    z-index: -1;
+}
+
+.texto-sobre h1{
+    font-size: 70px;
+}
+
+.texto-sobre p{
+    margin: 20px 0;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    max-width: 700px;
+    text-align:justify
+}
+
+.texto-sobre button{
+    border: 0;
+    background-color: var(---color-green);
+    color: var(---color-white);
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
