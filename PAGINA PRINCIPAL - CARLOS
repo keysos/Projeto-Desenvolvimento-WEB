@@ -1,0 +1,85 @@
+<html>
+   <head>
+      <title>Suplemax Fitness Club</title>
+      <link href="style.css" rel="stylesheet" />
+      <meta name="viewport" content="width=device-width, inital-scale=1.0, maximum-scale=1.0">
+   </head>
+      <body>
+         <header>
+            <div class="center" id="center"c>
+                  <button onclick="togglesidebar()" class="btn_icon_header"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+                     <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+                   </svg>
+
+                  </button>
+                  <div class="logo"><img src="assets/logo.svg" height="150px" width="110px"/></div>
+                  <div class="menu" id="menu"> 
+                     <button onclick="togglesidebar()" class="btn_icon_header">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                           <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+                        </svg>
+                     </button>
+                     <a href="#" class="active">Home</a>
+                     <a href="#">Treinos</a>
+                     <a href="#">Treinos Costas</a>
+                     <a href="#">Treinos Peitoral</a>
+                     <a href="#">Treinos Perna</a>
+                     <a href="#">Bombas</a>
+                     <a href="#">Suporte</a>
+                  </div>
+               </div>
+            </div>
+         </header>
+         <section class="sobre">
+            <div class="extras">
+               <img src="assets/img1.png" height="530px" width="530px"/>
+            </div>
+            <div class="social-media">
+               <a href=""><img src="assets/instagram.png" height="50px" width="50px"/></a>
+               <a href=""><img src="assets/facebook.png" height="50px" width="50px"/></a>
+               <a href=""><img src="assets/twitter.png" height="50px" width="50px"/></a>
+         </section>
+         <div class="center"></div>   
+               <div tabindex = '0' onclick="closesidebar()" class="texto-sobre" id="content">
+                  <h1>É mais do que bomba </br> é <span style="color:#04AA6D;">Suplemax</span></h1>
+                  <p>Quer crescer e largar de ser um frango, beta, narcizista precoce e deveras outras coisas? Esse é seu lugar, reunimos os mais diversos marombas para desenvolverem as melhores injetadas do mundo, é crescimento na certa.</p>
+                  <button>Saiba mais</button>
+               </div>
+         
+      </body>
+      <script>
+         var center = document.getElementById('center');
+         var menu = document.getElementById('menu');
+         var content = document.getElementById('content')
+         var showsidebar = false;
+
+         function togglesidebar(){
+            showsidebar = !showsidebar
+            if(showsidebar){
+               menu.style.marginLeft = '-10vw'
+               menu.style.animationName = 'showsidebar'
+               content.style.filter = ('blur(2px)')
+
+            }else{
+               menu.style.marginLeft = '-100vw'
+               menu.style.animationName = ''
+               content.style.filter = '';
+            }
+            console.log(showsidebar)
+         }
+
+         function closesidebar(){
+            if(showsidebar)
+            {
+               togglesidebar();
+            }
+         }
+
+         window.addEventListener('resize', function(event) {
+            if(window.innerWidth > 1800 && showsidebar)
+            {
+               togglesidebar
+            }
+         });
+      </script>
+</html>
