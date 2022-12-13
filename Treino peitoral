@@ -2,141 +2,139 @@
 <html>
     <head>
      <title>Peitoral</title>
-     <style>
-        * {
-
-    margin: 0; 
-  
-    padding: 5;
-}
-  
-.navbar {
-    display: flex;
-  
-
-    position: static; 
-    align-items: right;
-    justify-content: center;
-    top: 0px;
-  
-
-    cursor: pointer;
-}
-  
-.nav-list {
-    width: 50%;
-    display: flex;
-}
-  
-.nav-list li {
-    list-style: none;
-    padding: 26px 30px;
-}
-  
-.nav-list li a {
-    text-decoration: none;
-    color: rgb(255, 253, 253);
-}
-  
-.nav-list li a:hover {
-    color: rgb(4, 0, 0);
-}
-  
-.rightNav {
-    width: 50%;
-    text-align: cen;
-}
-  
-
-  
-.background {
-    background: rgb(8, 161, 3) url(
-"https://media.geeksforgeeks.org/wp-content/uploads/20201215124609/Capture-300x14.PNG");
-    background-blend-mode:soft-light;
-    background-size: cover;
-}
-  
-    </style>
-    </head>
-
-<body style = "background-color:white; color:white">
-        
-        <nav class="navbar background">
-            
-            <ul class="nav-list">
-                <LI><H1>Treino de peitoral pesado pra ficar com as tetas do arnold schuaquisnigga</H1></LI>
-            </ul>
-
-        </nav>
+     
     </head>
 
 <body>
     <body style="background-color:white ; color:black">
 
+        <center><h1><pre><u><strong>Treino peitoral</strong></u></pre></h1></center>
 <hr>
-
-    <img src="https://grandeatleta.com.br/wp-content/uploads/2018/09/supino.jpg"width="1000px" height="500px">
     
-        
-       <br> 
+        <P>
+        <img src="https://grandeatleta.com.br/wp-content/uploads/2018/09/supino.jpg" height="600px" width="600px" style="float: right;" >
+         </P>
+         
+         <table>
 
-        <table style="background-color:green;  color: white ;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Supino reto com barra</h2></pre></th>
-            </tr>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <Tr><th>
+                <p style="font-size:30px ;"> <mark>Supino reto:</mark> Um dos principais exercícios para desenvolver<br>
+                a parte superior do corpo é sem sombra de dúvidas o supino,<br>
+                usado por todos os praticantes treinamento de força,<br>
+                seja para ganhos estéticos ou para a performance.<br>
+                Dentre os principais benefícios ao se fazer o Supino reto, <br>
+                estão o aumento da força e potência muscular para quem busca performance<br>
+                e o ganho de massa muscular nos membros superiores para quem deseja estética.
+            </p>
+            </th></Tr>
+        
+         </table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
         </table>
-
-            <br>
-            <br>
-            <br>
-            <br>
-            <hr>
-        <img src="https://treinomestre.com.br/wp-content/uploads/2016/10/supino-inclinado-com-halteres.jpg"width="900px" height="500px">
-        <br>
-        <table style="background-color:green ;color:white;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Supino inclinado com halteres</h2></pre></th>
-            </tr>
-        
-        
-        </table>
-
-        <br>
-        <br>   
-        <br>
         <hr>
-        <br>
-        <br>
-        <br>   
-    
         
-        <img src="http://1.bp.blogspot.com/-NgeA9EALP0M/V1Ix_Wsb9PI/AAAAAAAAAk0/Pgpncio5xtQMSXxoFXaQJ3tlCUMeIhmEwCK4B/s1600/Crucifixo-com-cabos-em-polia-baixa.jpg" width="800px" height="500px">
-        
-        <br>
+        <p><img src="https://treinomestre.com.br/wp-content/uploads/2016/10/supino-inclinado-com-halteres.jpg" height="600px" width="600px" style="float: right ;"></p>
+        <table>
 
-        <table style="background-color:green ;color: white;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Crossover pegada baixa</h2></pre></th>       
-            </tr>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <Tr><th>
+                <p style="font-size:30px ;"> 
+                    <mark>Supino Inclinado:</mark>O supino inclinado com halteres é um dos exercícios mais famosos na musculação.<br>
+                     A prova disso é que, até mesmo quem não está inserido no universo fitness, é capaz de identificar esse movimento.<br>
+                    E toda essa fama não é por acaso: o supino trabalha diferentes músculos do peito e ainda fortalece peito, ombro e trícepes<br>
+                    favorecendo tanto homens quanto mulheres.
+            </th></Tr>
+        
+         </table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+        <br>    
+        </table>
+        <hr>
             
-        
-        </table>
+        <img src="https://i.pinimg.com/originals/1c/46/60/1c4660a5b6f97423b3471b9355bbb16c.jpg" height="600px" width="600px" style="float: right ;">
+        <table>
 
-        <br>
-        <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <Tr><th>
+                <p style="font-size:30px ;"> 
+                    <mark>Supino crucifixo:</mark>O supino crucifixo com halteres é um dos exercício sempre recomendado,tanto para iniciantes quanto para profissionais. <br>
+                     Afinal, trabalha o peitoral médio com mais foco ainda no "miolo" do peito.
+                Fazendo uso tanto da força do triceps e antebraço. Lembrando que força bastante o ombro sendo um pouco perigoso com cargas altas<br>
+                    
+            </th></Tr>
+        
+         </table>
+         <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
         <hr>
-
-        <table style="background-color:green ;color: white;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Supino crucifixo com halteres</h2></pre></th>
-            </tr>
-        <img src="https://i.pinimg.com/originals/1c/46/60/1c4660a5b6f97423b3471b9355bbb16c.jpg">    
-        </table> 
-        
-        <br>
-        <br>
-        <br>
-        
+         
         </body>
         
   
