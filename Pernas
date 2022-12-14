@@ -2,155 +2,124 @@
 <html>
     <head>
      <title>Pernas</title>
-
-     <style>
-        * {
-
-    margin: 0; 
-  
-    padding: 5;
-}
-  
-.navbar {
-    display: flex;
-  
-
-    position: static; 
-    align-items: right;
-    justify-content: center;
-    top: 0px;
-  
-
-    cursor: pointer;
-}
-  
-.nav-list {
-    width: 50%;
-    display: flex;
-}
-  
-.nav-list li {
-    list-style: none;
-    padding: 26px 30px;
-}
-  
-.nav-list li a {
-    text-decoration: none;
-    color: rgb(255, 253, 253);
-}
-  
-.nav-list li a:hover {
-    color: rgb(4, 0, 0);
-}
-  
-.rightNav {
-    width: 50%;
-    text-align: cen;
-}
-  
-
-  
-.background {
-    background: rgb(8, 161, 3) url(
-"https://media.geeksforgeeks.org/wp-content/uploads/20201215124609/Capture-300x14.PNG");
-    background-blend-mode:soft-light;
-    background-size: cover;
-}
-  
-    </style>
-    </head>
-
-<body style = "background-color:white; color:white">
-        
-        <nav class="navbar background">
-            
-            <ul class="nav-list">
-                <LI><H1>Treino eficiente as pernas do gustavo<H1></LI>
-            </ul>
-
-        </nav>
     </head>
 
 <body>
     <body style="background-color:white ; color:black">
-
+        <center><h1><pre><u><strong>Treino pernas</strong></u></pre></h1></center>
+   
 <hr>
     <br>
     <br>
-    <img src="https://treinomestre.com.br/wp-content/uploads/2016/08/cadeira-extensora-execucao-correta-.jpg" width="1000px" height="500px" >
+    <img src="https://treinomestre.com.br/wp-content/uploads/2016/08/cadeira-extensora-execucao-correta-.jpg" height="600px" width="600px" style="float: right;" >
+    <table>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <Tr><th>
+            <p style="font-size:30px ;"> <mark>Cadeira extensora:</mark> é considerado um dos melhores exercícios para trabalhar costas.<br> 
+            Quando se faz remada baixa, a pessoa trabalha diversos músculos, mas principalmente o latíssimo do dorso e o trapézio, <br> 
+            nas porções inferior e superior.
+                 
+        </p>
+        </th></Tr>
     
-        
-       <br> 
-
-        <table style="background-color:green;  color: white ;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Cadeira extensora</h2></pre></th>
-            </tr>
-        </table>
-
-            <br>
-            <br>
-            <br>
-            <br>
-            <hr>
-            <br>
-            <br>
-        <img src="https://mercadobomsucesso.com/wp-content/uploads/2019/11/Agachamento-livre.jpg" width="800px" height="500px">
-        <br>
-        <table style="background-color:green ;color:white;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Agachamento livre</h2></pre></th>
-            </tr>
-        
-        
-        </table>
-        <br>
-        <br>   
+     </table>
     
-        <br>
-        <hr>
-        <br>
-        <img src="https://grandeatleta.com.br/wp-content/uploads/2022/06/leg-press-45-820x394.jpg" width="900px" height="600px">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr>
+        
+        <img src="https://mercadobomsucesso.com/wp-content/uploads/2019/11/Agachamento-livre.jpg" height="600px" width="600px" style="float: right;">
+        <table>
 
-        <br>
-        <table style="background-color:green ;color: white;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Leg press 45°</h2></pre></th>       
-            </tr>
-            
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+    
+            <Tr><th>
+                <p style="font-size:30px ;"> <mark>Agachamento livre:</mark> é considerado um dos melhores exercícios para trabalhar costas.<br> 
+                Quando se faz remada baixa, a pessoa trabalha diversos músculos, mas principalmente o latíssimo do dorso e o trapézio, <br> 
+                nas porções inferior e superior.
+                     
+            </p>
+            </th></Tr>
         
-        </table>
+         </table>
+        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <br>
         <br>
         <br>
         <br>
         <hr>
-        <br>
-        <br>
-        <img src="https://treinomestre.com.br/wp-content/uploads/2016/09/musculos-trabalhados-solicitados.jpg" width="1000px" height="600px">
-        <br>
         
-        <table style="background-color:green ;color: white;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Mesa flexora</h2></pre></th>
-            </tr>
-            
-        </table> 
+        <img src="https://ginasiovirtual.com/wp-content/uploads/2021/06/Extensao-de-gemeos-em-pe-com-halteres.jpg" height="600px" width="600px" style="float: right;">
+        <table>
 
-       
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+    
+            <Tr><th>
+                <p style="font-size:30px ;"> <mark>Gêmeos em pé:</mark> é considerado um dos melhores exercícios para trabalhar costas.<br> 
+                Quando se faz remada baixa, a pessoa trabalha diversos músculos, mas principalmente o latíssimo do dorso e o trapézio, <br> 
+                nas porções inferior e superior.
+                     
+            </p>
+            </th></Tr>
+        
+         </table>
         
         <br>
         <br>
-        <hr>
         <br>
-        <img src="https://ginasiovirtual.com/wp-content/uploads/2021/06/Extensao-de-gemeos-em-pe-com-halteres.jpg" width="1000px" height="500px">
         <br>
-        <table style="background-color:green ;color: white;" border="1"; align="right">
-            <tr>
-                <th><pre><h2>Gêmeos em pé</h2></pre></th>
-            </tr>
-            
-        </table> 
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <br>
         <br>
         <br>
