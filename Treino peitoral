@@ -1,4 +1,32 @@
 <!DOCTYPE html>
+<head>
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+    <title>Suplemax Fitness Club</title>
+    <link href="styleProduto.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, inital-scale=1.0, maximum-scale=1.0">
+    <div class="center" id="center"c>
+       <button onclick="togglesidebar()" class="btn_icon_header"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+        </svg>
+
+       </button>
+       <div class="logo"><img src="assets/logo.png" height="130px" width="150px"/></div>
+       <div class="menu" id="menu"> 
+          <button onclick="togglesidebar()" class="btn_icon_header">
+             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+             </svg>
+          </button>
+           <a href="index.html" class="active">Home</a>
+           <a href="treinodepeito.html">Treino de peito</a>
+           <a href="treinodecostas.html">Treino de costas</a>
+           <a href="treinodepernas.html">Treino de perna</a>                                        
+           <a href="produtos.html">Produtos</a>
+           <a href="cadastro.html">Cadastre-se</a>
+           <a href="login.html">Login</a>
+         </div>
+      </div>
+   </div>
 <html>
     <head>
      <title>Peitoral</title>
@@ -9,7 +37,7 @@
     <body style="background-color:white ; color:black">
 
         <center><h1><pre><u><strong>Treino peitoral</strong></u></pre></h1></center>
-<hr>
+
     
         <P>
         <img src="https://grandeatleta.com.br/wp-content/uploads/2018/09/supino.jpg" height="600px" width="600px" style="float: right;" >
@@ -26,7 +54,8 @@
             <br>
 
             <Tr><th>
-                <p style="font-size:30px ;"> <mark>Supino reto:</mark> Um dos principais exercícios para desenvolver<br>
+                <p style="font-size:30px ;"> <mark>Supino reto:</mark><br>
+                Um dos principais exercícios para desenvolver<br>
                 a parte superior do corpo é sem sombra de dúvidas o supino,<br>
                 usado por todos os praticantes treinamento de força,<br>
                 seja para ganhos estéticos ou para a performance.<br>
@@ -70,7 +99,7 @@
 
             <Tr><th>
                 <p style="font-size:30px ;"> 
-                    <mark>Supino Inclinado:</mark>O supino inclinado com halteres é um dos exercícios mais famosos na musculação.<br>
+                    <mark>Supino Inclinado:</mark><br>O supino inclinado com halteres é um dos exercícios mais famosos na musculação.<br>
                      A prova disso é que, até mesmo quem não está inserido no universo fitness, é capaz de identificar esse movimento.<br>
                     E toda essa fama não é por acaso: o supino trabalha diferentes músculos do peito e ainda fortalece peito, ombro e trícepes<br>
                     favorecendo tanto homens quanto mulheres.
@@ -110,7 +139,7 @@
 
             <Tr><th>
                 <p style="font-size:30px ;"> 
-                    <mark>Supino crucifixo:</mark>O supino crucifixo com halteres é um dos exercício sempre recomendado,tanto para iniciantes quanto para profissionais. <br>
+                    <mark>Supino crucifixo:</mark><br>O supino crucifixo com halteres é um dos exercício sempre recomendado,tanto para iniciantes quanto para profissionais. <br>
                      Afinal, trabalha o peitoral médio com mais foco ainda no "miolo" do peito.
                 Fazendo uso tanto da força do triceps e antebraço. Lembrando que força bastante o ombro sendo um pouco perigoso com cargas altas<br>
                     
