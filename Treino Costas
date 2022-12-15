@@ -1,75 +1,184 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+    <title>Suplemax Fitness Club</title>
+    <link href="styleProduto.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, inital-scale=1.0, maximum-scale=1.0">
+    <div class="center" id="center"c>
+       <button onclick="togglesidebar()" class="btn_icon_header"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+        </svg>
+
+       </button>
+       <div class="logo"><img src="assets/logo.png" height="130px" width="150px"/></div>
+       <div class="menu" id="menu"> 
+          <button onclick="togglesidebar()" class="btn_icon_header">
+             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+             </svg>
+          </button>
+           <a href="index.html" class="active">Home</a>
+           <a href="treinodepeito.html">Treino de peito</a>
+           <a href="treinodecostas.html">Treino de costas</a>
+           <a href="treinodepernas.html">Treino de perna</a>                                        
+           <a href="produtos.html">Produtos</a>
+           <a href="cadastro.html">Cadastre-se</a>
+           <a href="login.html">Login</a>
+         </div>
+      </div>
+   </div>
     <head>
      <title>Costas</title>
-
-     <style>
-        * {
-
-    margin: 0; 
-  
-    padding: 5;
-}
-  
-.navbar {
-    display: flex;
-  
-
-    position: static; 
-    align-items: right;
-    justify-content: center;
-    top: 0px;
-  
-
-    cursor: pointer;
-}
-  
-.nav-list {
-    width: 50%;
-    display: flex;
-}
-  
-.nav-list li {
-    list-style: none;
-    padding: 26px 30px;
-}
-  
-.nav-list li a {
-    text-decoration: none;
-    color: rgb(255, 253, 253);
-}
-  
-.nav-list li a:hover {
-    color: rgb(4, 0, 0);
-}
-  
-.rightNav {
-    width: 50%;
-    text-align: cen;
-}
-  
-
-  
-.background {
-    background: rgb(8, 161, 3) url(
-"https://media.geeksforgeeks.org/wp-content/uploads/20201215124609/Capture-300x14.PNG");
-    background-blend-mode:soft-light;
-    background-size: cover;
-}
-  
-    </style>
     </head>
 
-<body style = "background-color:white; color:white">
-        
-        <nav class="navbar background">
+    <body>
+        <body style="background-color:white ; color:black"> 
+            <center><h1><pre><u><strong>Treino costas</strong></u></pre></h1></center>
+    
+
+<body>
+    <body style="background-color:white ; color:black">
+
+     
+
+    <p><img src="https://treinomestre.com.br/wp-content/uploads/2015/03/remada-curvada-capa.jpg" width="600px" height="600px" style="float: right ;" >
+    </p>
+    <table>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <Tr><th>
+            <p style="font-size:30px ;"> <mark>Remada curvada:</mark> <br>A remada curvada é um exercício que trabalha toda a parte dorsal do tronco<br>
+            e é realizada por meio de três movimentos: extensão do ombro, adução escapular e flexão do cotovelo.<br>
+            A remada curvada serve para o desenvolvimento muscular harmônico e é um dos poucos exercícios de costas<br>
+            que utiliza o peso livre. 
+            Devido à posição curvada, o movimento ativa o dorso, trapézio (porção média e inferior),<br> 
+            romboides, deltoide, bíceps braquial, serrátil, entre outros músculos.<br>
             
-            <ul class="nav-list">
-                <LI><H1>Treino eficiente para obter costas do CHAD</H1></LI>
-            </ul>
+        </p>
+        </th></Tr>
+    
+     </table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
 
-        </nav>
-    </head>
+        <P><img src="https://i.pinimg.com/736x/55/84/67/5584675e16dbb41e0e07d4868b9fd245.jpg" width="600px" height="600px" style="float: right ;">
+        </P><br>
+        <table>
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+    
+            <Tr><th>
+                <p style="font-size:30px ;"> <mark>Puxuda frontal:</mark><br>
+                    A puxada aberta tem como principal músculo trabalhado o latíssimo do dorso.<br>
+                    Porém, o trapézio médio e o inferior, os romboides, redondo maior, assim como o bíceps também são trabalhados neste exercício<br>
+                     
+            </p>
+            </th></Tr>
+        
+         </table>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr>
+    <br>
+    
+        
+        <br>
+        <br>   
+    
+        <br>
+       
+        <br>
+        <img src="https://grandeatleta.com.br/wp-content/uploads/2021/06/remada-baixa-supinada-pronada-neutra.jpg" width="600px" height="600px" style="float:right ;">
+        <table>
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+    
+            <Tr><th>
+                <p style="font-size:30px ;"> <mark>Remada baixa:</mark> <br>
+                    é considerado um dos melhores exercícios para trabalhar costas.<br> 
+                Quando se faz remada baixa, a pessoa trabalha diversos músculos, mas principalmente o latíssimo do dorso e o trapézio, <br> 
+                nas porções inferior e superior.
+                     
+            </p>
+            </th></Tr>
+        
+         </table>
+        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <hr>
+        
+        </body>
+        
+  
+</body>
+</html>
     
     AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
     
